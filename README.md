@@ -13,10 +13,10 @@ I even won a hackathon based on developing a Skill for Alexa. With minimal exper
 
 Getting in touch
 [Krishna Kishore](https://krishnakishore.co.in)
-
+<!--
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/itskrsna)
 
-<!--
+
 **blueshirtdeveloper/blueshirtdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
